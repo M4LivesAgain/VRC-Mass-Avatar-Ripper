@@ -17,5 +17,3 @@ me... (M4LivesAgain)
 
 ## Note
 if the avatar has not been cached or has been overriden by avatar change you cant get the avatar they were (for me at least)
-
-# IF THIS HELPED YOU MAKE SURE TO STAR ⭐
